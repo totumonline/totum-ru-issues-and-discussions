@@ -2,6 +2,8 @@
 
 Issues и учебный портал на русском только в этом репозитарии!
 
+[Сайт документации docs.totum.online —>](https://docs.totum.online/)
+
 [Issues —>](https://github.com/totumonline/totum-ru-issues-and-discussions/issues)
 
 [Учебный портал —>](https://github.com/totumonline/totum-ru-issues-and-discussions/discussions)
