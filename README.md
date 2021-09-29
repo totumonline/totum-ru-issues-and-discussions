@@ -6,7 +6,7 @@ Issues и учебный портал на русском только в это
 
 [Issues —>](https://github.com/totumonline/totum-ru-issues-and-discussions/issues)
 
-[Учебный портал —>](https://github.com/totumonline/totum-ru-issues-and-discussions/discussions)
+[Вопросы-ответы —>](https://github.com/totumonline/totum-ru-issues-and-discussions/discussions)
 
 Если вам нужна помощь по каким-либо вопросам связанным с Totum — создавайте топик [здесь](https://github.com/totumonline/totum-ru-issues-and-discussions/discussions).
 
