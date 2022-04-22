@@ -6,7 +6,7 @@
 
 Если вам нужна помощь по каким-либо вопросам связанным с Totum — создавайте топик [здесь](https://github.com/totumonline/totum-ru-issues-and-discussions/discussions). **Обычно мы отвечаем в течении суток.** Вам потребуется аккаунт GitHub — [создайте его](https://github.com/signup) если у вас его еще нет.
 
-[Сайт документации docs.totum.online —>](https://docs.totum.online/)
+[Сайт документации ru.docs.totum.online —>](https://ru.docs.totum.online/)
 
 [Issues —>](https://github.com/totumonline/totum-ru-issues-and-discussions/issues)
 
