@@ -4,7 +4,7 @@
 
 ### [Вопросы-ответы-дискуссии](https://github.com/totumonline/totum-ru-issues-and-discussions/discussions)
 
-Если вам нужна помощь по каким-либо вопросам связанным с Totum — создавайте топик [здесь](https://github.com/totumonline/totum-ru-issues-and-discussions/discussions). **Обычно мы отвечаем в течении суток.** Вам потребуется аккаунт GitHub — [создайте его](https://github.com/signup) если у вас его еще нет.
+Если вам нужна помощь по каким-либо вопросам связанным с Totum — создавайте топик [здесь](https://github.com/totumonline/totum-ru-issues-and-discussions/discussions). **Основная команда отвечает по наличию свободного времени.** Вам потребуется аккаунт GitHub — [создайте его](https://github.com/signup) если у вас его еще нет.
 
 [Сайт документации ru.docs.totum.online](https://ru.docs.totum.online/)
 
